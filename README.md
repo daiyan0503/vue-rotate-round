@@ -1,5 +1,5 @@
 # Vue
 Vue  rotate  round
 
-#Installation
+# Installation
 npm install vue-round-rotate
