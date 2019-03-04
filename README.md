@@ -1,5 +1,5 @@
-# Vue
-Vue  rotate  round
+# vue-rotate-round
+animation rotate round
 
 # Installation
 `npm install vue-round-rotate`
